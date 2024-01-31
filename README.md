@@ -1,2 +1,2 @@
-# Sa-Kasibulan_Articles
+# Sa-Kasibulan-Articles
 School Papers
